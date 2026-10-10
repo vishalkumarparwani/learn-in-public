@@ -13,3 +13,9 @@ A collection of hands-on exercises, experiments, and notes as I learn new techno
 Topics and implementations will be added as I progress.
 
 *Work in progress.*
+
+
+
+
+
+.\.venv\Scripts\Activate.ps1

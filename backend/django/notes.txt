@@ -1,0 +1,11 @@
+__str__() : Provides a readable representation of an article
+
+makemigrations generates migration files describing model changes.
+migrate applies those changes to the database.
+
+
+
+
+
+
+python manage.py runserver
