@@ -9,7 +9,7 @@ A collection of hands-on exercises, experiments, and notes as I learn new techno
 * DevOps & Cloud
 * Computer Networks
 * Computer Science Fundamentals
-
+* Data Science
 Topics and implementations will be added as I progress.
 
 *Work in progress.*
