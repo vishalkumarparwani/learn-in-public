@@ -8,7 +8,7 @@ def encode_domain(domain):
     parts = domain.split(".")
 
     for part in parts:
-        result += bytes(len(part))
+        result += bytes([len(part)])
         result += part.encode()
 
     result += b"\x00"
