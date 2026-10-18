@@ -12,3 +12,6 @@ dist/
 .DS_Store
 Thumbs.db
 *.log
+
+
+tdd_katas/

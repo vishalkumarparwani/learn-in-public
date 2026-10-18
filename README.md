@@ -5,11 +5,12 @@ A collection of hands-on exercises, experiments, and notes as I learn new techno
 ## Areas of Learning
 
 * Full-Stack Development
-* AI / Machine Learning
+* Machine Learning
 * DevOps & Cloud
-* Computer Networks
-* Computer Science Fundamentals
+* Computer Science
 * Data Science
+* GenAI
+
 Topics and implementations will be added as I progress.
 
 *Work in progress.*
