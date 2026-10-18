@@ -10,4 +10,4 @@ python/
 │   ├── collections_itertools.py
 │   ├── pathlib_json.py
 │   └── logging_demo.py
-└── tests/
+└── tdd_katas/bowling_game.py, string_calculator.py
