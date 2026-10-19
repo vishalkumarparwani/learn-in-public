@@ -1,6 +1,4 @@
-# Learning
 
-A collection of hands-on exercises, experiments, and notes as I learn new technologies.
 
 ## Areas of Learning
 
@@ -11,9 +9,6 @@ A collection of hands-on exercises, experiments, and notes as I learn new techno
 * Data Science
 * GenAI
 
-Topics and implementations will be added as I progress.
-
-*Work in progress.*
 
 
 
