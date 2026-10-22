@@ -1,8 +1,7 @@
 # brokers like RabbitMQ, Kafka and SQS deliver messages 
 # at least once.The same message can arrive twice after 
 # a retry, a timeout, or a consumer crash before the ack
-
-
+#-------------------------------------------------------
 
 class IdempotentConsumer:
     def __init__(self):
@@ -26,9 +25,9 @@ if __name__ == "__main__":
     messages = [
         {"id": 1, "amount": 100},
         {"id": 2, "amount": 200},
-        {"id": 1, "amount": 100},  #dup msg
+        {"id": 1, "amount": 100},  #dup id
         {"id": 3, "amount": 300},
-        {"id": 2, "amount": 200},  #dup msg
+        {"id": 2, "amount": 200},  #dup id
     ]
     results = []
 
